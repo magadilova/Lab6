@@ -20,4 +20,5 @@
 Сетевые каналы должны использоваться в неблокирующем режиме.
 
 server port fileScr.xml
+
 client localhost port
